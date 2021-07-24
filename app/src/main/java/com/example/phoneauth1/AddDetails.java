@@ -25,7 +25,7 @@ import java.util.Map;
 public class AddDetails extends AppCompatActivity {
     public static final String TAG = "TAG";
     EditText firstName,lastName,email;
-    Button saveBtn;sadf
+    Button saveBtn;sadfsdfasdf
     FirebaseAuth fAuth;
     FirebaseFirestore fStore;
     String userID;
